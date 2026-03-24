@@ -1,0 +1,13 @@
+struct  Solution; 
+
+impl Solution {
+    pub fn partition_array(nums: Vec<i32>, k: i32) -> bool {
+
+
+        if (nums.len() as i32  % k) != 0 { 
+            false
+        }else {
+            println!("tets");
+        }
+    }
+}
