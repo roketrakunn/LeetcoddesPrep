@@ -1,0 +1,6 @@
+/home/jobby/Projects/LeetcoddesPrep/leetcode/hard/target/debug/deps/hard-059ac356dc46b387.d: src/main.rs src/way_to_make_arryprod.rs
+
+/home/jobby/Projects/LeetcoddesPrep/leetcode/hard/target/debug/deps/libhard-059ac356dc46b387.rmeta: src/main.rs src/way_to_make_arryprod.rs
+
+src/main.rs:
+src/way_to_make_arryprod.rs:
